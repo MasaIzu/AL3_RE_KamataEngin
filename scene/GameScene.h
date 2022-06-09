@@ -67,6 +67,7 @@ private: // メンバ変数
 	Vector3 vector3(float x, float y, float z);
 	Vector4 vector4(int x, int y, int z, int w);
 
+	float Rad(float x);
 
 	/// <summary>
 	/// ゲームシーン用
