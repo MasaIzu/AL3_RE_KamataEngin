@@ -75,6 +75,9 @@
     <ClCompile Include="affin\Affin.cpp">
       <Filter>ソース ファイル\affin</Filter>
     </ClCompile>
+    <ClCompile Include="AffinTransformation.cpp">
+      <Filter>ソース ファイル\math</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3d\ViewProjection.h">
@@ -160,6 +163,9 @@
     </ClInclude>
     <ClInclude Include="affin\Affin.h">
       <Filter>ヘッダー ファイル\affin</Filter>
+    </ClInclude>
+    <ClInclude Include="AffinTransformation.h">
+      <Filter>ヘッダー ファイル\math</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
